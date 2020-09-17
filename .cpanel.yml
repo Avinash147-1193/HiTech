@@ -1,5 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/apggercdo7nj/public_html/
-    - /bin/cp -R avinashdwivedi.in $DEPLOYPATH
+    - export DEPLOYPATH=/home/apggercdo7nj/public_html/avinashdwivedi.in
